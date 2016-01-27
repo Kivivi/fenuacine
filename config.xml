@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="pf.appli.kivivi" version="1.0.0">
   <name>Fenua Cine</name>
-  <description>Application mobile - Programme cinématographique de Tahiti </description>
+  <description>Application mobile - Tout le programme cinématographique de Tahiti </description>
   <author href="http://phonegap.com" email="f.kivivi@gmail.com">Fabrice Folituu</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
