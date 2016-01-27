@@ -1,2 +1,2 @@
 # fenuacine
-Application mobile - Programme cinématographique de Tahiti
+Application mobile - Retrouvez tous les programmes cinémtographique de Tahiti
